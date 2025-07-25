@@ -1,4 +1,4 @@
-# BIL142 C++ Fınal Project for TOBB ETU
+# BIL142 C++ Final Project for TOBB ETU
 
 This piece of code features a project that provides a robust and flexible Date class in C++ for safe and convenient calendar date operations (day, month, year).
 The class focuses on typical needs such as date validation, comparison, and arithmetic operations.
